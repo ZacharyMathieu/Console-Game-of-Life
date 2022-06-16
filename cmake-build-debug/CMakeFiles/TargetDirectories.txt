@@ -1,0 +1,3 @@
+C:/Users/zwazo/Documents/Uni/Session 4/OS/Game Of Life/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zwazo/Documents/Uni/Session 4/OS/Game Of Life/cmake-build-debug/CMakeFiles/Game_Of_Life.dir
+C:/Users/zwazo/Documents/Uni/Session 4/OS/Game Of Life/cmake-build-debug/CMakeFiles/rebuild_cache.dir
